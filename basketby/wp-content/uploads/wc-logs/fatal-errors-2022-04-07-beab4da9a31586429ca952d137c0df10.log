@@ -1,0 +1,4 @@
+2022-04-07T17:11:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\Requests\Transport\cURL.php на строке 165
+
+2022-04-07T17:12:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-admin\includes\class-wp-filesystem-direct.php на строке 66
+

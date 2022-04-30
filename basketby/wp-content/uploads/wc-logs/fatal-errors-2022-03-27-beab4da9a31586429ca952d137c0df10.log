@@ -1,0 +1,50 @@
+2022-03-27T18:11:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-content\plugins\elementor\includes\autoloader.php на строке 265
+
+2022-03-27T18:12:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-03-27T18:14:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-03-27T18:16:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 373
+
+2022-03-27T18:18:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 375
+
+2022-03-27T18:24:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
+2022-03-27T18:28:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
+2022-03-27T18:33:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 375
+
+2022-03-27T18:39:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 375
+
+2022-03-27T18:39:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\Requests\Transport\cURL.php на строке 165
+
+2022-03-27T18:43:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\wp-db.php на строке 2162
+
+2022-03-27T18:43:42+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\wp-db.php на строке 2162
+
+2022-03-27T18:48:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 375
+
+2022-03-27T18:53:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 778
+
+2022-03-27T18:58:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 514
+
+2022-03-27T19:03:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\wp-db.php на строке 2162
+
+2022-03-27T19:08:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
+2022-03-27T19:13:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
+2022-03-27T19:18:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
+2022-03-27T19:23:42+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 375
+
+2022-03-27T19:28:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 514
+
+2022-03-27T19:33:42+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
+2022-03-27T19:38:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 375
+
+2022-03-27T19:43:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\wp-db.php на строке 2162
+
+2022-03-27T19:48:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\Games\OpenServer\domains\basketby\wp-includes\class-wp-image-editor-imagick.php на строке 386
+
